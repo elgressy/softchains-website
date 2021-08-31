@@ -1,4 +1,4 @@
-# lyn-website
+# softchains-website
 
 
 # Credits
